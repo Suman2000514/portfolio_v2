@@ -70,7 +70,6 @@ export default function Home() {
         <Contact />
         <footer className="w-full h-full flex flex-row justify-center items-center pt-10">
           <div className="flex flex-col justify-center items-center">
-            <div className="font-bold">Read all my latest blogs at</div>
             <Link href={"/idea"}></Link>
           </div>
         </footer>
