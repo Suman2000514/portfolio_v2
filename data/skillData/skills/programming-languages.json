@@ -1,0 +1,17 @@
+{
+    "title":"Programming Languages",
+    "skills":[
+    
+        {
+            "name":"JavaScript",
+            "icon":"JavascriptOriginal"
+        },
+        {
+            "name":"TypeScript",
+            "icon":"TypescriptOriginal"
+        }
+      
+      
+    ],
+    "index":1
+}
