@@ -183,7 +183,7 @@ function About() {
                         className="w-[50%] border-[2px] border-solid border-white rounded-[5px] mobile:hidden tablet:hidden laptop:block desktop:block"
                     /> */}
           <Image
-            src="/About.jpg"
+            src="https://scontent.fktm8-1.fna.fbcdn.net/v/t39.30808-6/395356233_848923020028646_3641053931249277130_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=IS2wizFeL38AX9xBbmi&_nc_ht=scontent.fktm8-1.fna&oh=00_AfAJlyNNgE4SCZY9Lzsni2w5Ud7lwMyWRkh6Vc217N_KkA&oe=657C3A64"
             alt="Image in the about section"
             width={400}
             height={600}
